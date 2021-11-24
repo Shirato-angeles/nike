@@ -3,6 +3,7 @@ var preview = document.getElementsBy("preview");
 var nike = document.getElementsByClassName("nike");
 var active = document.getElementsByClassName("active");
 
+//new changue 
 
 
 var Color = new Array(
