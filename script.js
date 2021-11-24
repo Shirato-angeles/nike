@@ -1,5 +1,3 @@
-//alert("funciona!")
-
 var col = document.getElementsByClassName("col");
 var preview = document.getElementsBy("preview");
 var nike = document.getElementsByClassName("nike");
