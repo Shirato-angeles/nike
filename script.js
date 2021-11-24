@@ -3,8 +3,6 @@ var preview = document.getElementsBy("preview");
 var nike = document.getElementsByClassName("nike");
 var active = document.getElementsByClassName("active");
 
-//new changue 
-
 
 var Color = new Array(
     "./shoes_webpage_img/nike-b.png",
